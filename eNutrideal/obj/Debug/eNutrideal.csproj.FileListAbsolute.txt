@@ -1,0 +1,21 @@
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\bin\Debug\eNutrideal.exe.config
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\bin\Debug\eNutrideal.exe
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\bin\Debug\eNutrideal.pdb
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csprojAssemblyReference.cache
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form1.resources
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form2.resources
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Properties.Resources.resources
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csproj.GenerateResource.cache
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csproj.CoreCompileInputs.cache
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.exe
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.pdb
+C:\Users\Ana Sardo\Desktop\LICENCIATURA - CIS\3º ANO\1º Semestre\Integração de Sistemas de Informação\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form5.resources
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csprojAssemblyReference.cache
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form1.resources
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form2.resources
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Form5.resources
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.Properties.Resources.resources
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csproj.GenerateResource.cache
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.csproj.CoreCompileInputs.cache
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.exe
+C:\Users\Ana Sardo\Desktop\TRABALHO\eNutrideal\eNutrideal\eNutrideal\obj\Debug\eNutrideal.pdb

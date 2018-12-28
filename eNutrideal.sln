@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eNutrideal", "eNutrideal\eNutrideal.csproj", "{08003531-F402-4190-BD59-0745D3821024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08003531-F402-4190-BD59-0745D3821024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08003531-F402-4190-BD59-0745D3821024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08003531-F402-4190-BD59-0745D3821024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08003531-F402-4190-BD59-0745D3821024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44782A2E-8D9E-454E-91E3-07ECEF9087F4}
+	EndGlobalSection
+EndGlobal
